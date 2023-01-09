@@ -1,0 +1,33 @@
+		body{
+			background-color: #bfbfbf;
+			}
+
+			div
+			{
+			width: 600px;
+        	margin: 5em auto;
+        	padding: 2em;
+			background-color: white;
+			height: 5.5cm;
+			border-radius: 0.3cm;
+			margin-top: 2cm;
+			box-shadow: 5px;
+			}
+			h1
+			{
+				font-family: sans-serif;
+				font-size: 40px;
+			}
+			p{
+			font-family: sans-serif;
+			font-style: bold;
+			font-size: 16px;
+			}
+			a:link,a:visited	 
+			{
+  			text-decoration: none;
+  			font-family: sans-serif;
+  			font-size: 16px;
+  			color: #1a53ff;
+  			padding-top: 5px;
+			}
